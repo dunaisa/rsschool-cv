@@ -1,6 +1,6 @@
-## Дунаева Елизавета 
+## Elizabeth Dunaeva
 
-Контакты: elizabeths97@mail.ru  
-О себе: начинающий front-end разработчик  
-Навыки: html, css, js, React  
-Английский язык: B1
+Contacts: elizabeths97@mail.ru  
+About: Junior Front-end developer  
+Skills: html, css, js, React  
+English level: B1
